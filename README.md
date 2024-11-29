@@ -1,5 +1,11 @@
-Analyzed Gen Z career aspirations and trends using survey data, providing insights on preferences and expectations for career paths, work environments, and professional growth.
-Utilized Excel for data cleaning and advanced pivot table analysis, ensuring accurate and organized data for further insights.
-Leveraged SQL for data extraction, transformation, and querying, enabling efficient data retrieval from large datasets to address key research questions.
-Developed visualizations in Power BI, showcasing findings with interactive dashboards to make complex data accessible and actionable for stakeholders.
-Collaborated in a data-driven internship project with Kulture Hire, honing skills in data analysis, standardization, and reporting tailored for strategic decision-making.
+Project Overview:
+"This project analyzes the career aspirations of Gen Z based on survey data collected in 2024. Using data cleaning techniques, visualization tools, and SQL queries, it uncovers trends and insights about their ambitions and values."
+
+Key Highlights:
+
+Analyzed survey data from Gen Z participants (1995–2010).
+Tools: Excel (Pivot Tables, Cleaning), SQL (Queries), and Power BI (Interactive Dashboards).
+Outputs include charts, filtered insights, and regional breakdowns.
+
+
+![Dashboard_page-0001 (1)](https://github.com/user-attachments/assets/051454b4-9259-488b-b58e-57e91bcd33b8)
